@@ -44,9 +44,8 @@
 }
 
 .header__subtitle {
-  display: flex;
+  display: inline;
   position: absolute;
-  bottom: 0;
   left: 64px;
   bottom: 30px;
   width: 388px;
@@ -55,7 +54,6 @@
   font-size: 18px;
   line-height: 25px;
   z-index: 2;
-  display: inline;
 }
 
 .header__link {
@@ -66,13 +64,12 @@
 .header__square-pic {
   display: flex;
   position: absolute;
+  top: 64px;
+  right: 0;
   width: 568px;
   height: 568px;
   background: #2f80ed;
-  top: 0;
-  right: 0;
   z-index: 0;
-  top: 64px;
 }
 
 .header__main-illustration {
