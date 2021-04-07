@@ -180,7 +180,7 @@
   font-weight: 700;
 }
 
-.table__text_theme_dark {
+.table__text {
   display: flex;
   position: relative;
   margin-top: 20px;
