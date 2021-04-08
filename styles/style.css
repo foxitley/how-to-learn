@@ -300,7 +300,7 @@
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
   position: absolute;
-  background-size: content;
+  background-size: contain;
   width: 877px;
   height: 877px;
   top: 0;
